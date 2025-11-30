@@ -15,7 +15,7 @@ The application is structured into three distinct tiers, deployed across private
 
 ## [Link to my project blog](https://www.notion.so/AWS-3-Tier-Architecture-2bbab8d2629880449a47f1e0c30695f3)
 
-## [Medium article](Add your Medium post link here)
+## [Medium article]([Add your Medium post link here](https://medium.com/@maheshgore7888/building-a-production-ready-3-tier-application-on-aws-a-complete-guide-0409207850a5))
 
 ---
 
